@@ -1,0 +1,6 @@
+﻿C5 - https://github.com/sestoft/C5
+MIT License
+Copyright (c) 2003-2016 Niels Kokholm, Peter Sestoft, and Rasmus Lystrøm
+
+JMA2001 - http://www.data.jma.go.jp/svd/eqev/data/bulletin/catalog/appendix/trtime/trt_j.html
+Standard travel-time table from Japan Meteorological Agency
